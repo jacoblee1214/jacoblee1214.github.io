@@ -33,3 +33,15 @@
 - Replaced Astro default `post_img.webp` references across index and projects pages
 - Fixed hero CTA: "Let's connect!" (Twitter link) replaced with "Email" (mailto)
 - Profile image handled separately by user (optimized to 600x600)
+
+### Deployment Day (2026-04-20)
+- First push to GitHub: commit `ddd6f62`
+- Workflow failure #1: `withastro/action@v3` couldn't detect package manager (no pnpm version specified)
+- Workflow fix: replaced with explicit Node setup + npm install + npm run build
+- Second push: commit with fixed `deploy.yml` — **SUCCESS**
+- Site live at https://jacoblee1214.github.io
+- Jekyll auto-build still failing (harmless — different workflow, not used); `.nojekyll` added to disable
+
+### Lessons
+- `withastro/action` auto-detection can fail silently. Writing the workflow explicitly (setup-node → install → build → upload) is more reliable.
+- GitHub Pages has two build modes: "Deploy from branch" (Jekyll) and "GitHub Actions". Must set to Actions for custom build pipelines.
