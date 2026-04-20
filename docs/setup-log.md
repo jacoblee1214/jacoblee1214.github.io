@@ -45,3 +45,8 @@
 ### Lessons
 - `withastro/action` auto-detection can fail silently. Writing the workflow explicitly (setup-node → install → build → upload) is more reliable.
 - GitHub Pages has two build modes: "Deploy from branch" (Jekyll) and "GitHub Actions". Must set to Actions for custom build pipelines.
+
+### Favicon Update (2026-04-20 — end of day)
+- Replaced default Astrofy favicon with custom "HL" initials SVG
+- Dark slate background, white text, rounded corners
+- SVG format (scales cleanly, supports light/dark browser themes)
