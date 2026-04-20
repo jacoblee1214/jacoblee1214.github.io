@@ -8,14 +8,18 @@ const { sideBarActiveItemID } = Astro.props;
 <div class="drawer-side z-40">
   <label for="my-drawer" class="drawer-overlay"></label>
   <aside class="px-2 pt-2 h-auto min-h-full w-[19rem] bg-base-200 text-base-content flex flex-col">
-    <div class="w-fit mx-auto mt-5 mb-6">
+    <div class="w-fit mx-auto mt-5 mb-2">
       <a href="/">
         <div class="avatar transition ease-in-out hover:scale-[102%] block m-auto">
           <div class="w-[8.5rem]">
-            <Image class="mask mask-circle" format="webp" width={300} height={300} src="/profile.webp" alt="Profile image" />
+            <Image class="mask mask-circle" format="webp" width={300} height={300} src="/profile.jpg" alt="Hyunsu Lee" />
           </div>
         </div>
       </a>
+    </div>
+    <div class="text-center mb-4">
+      <div class="text-lg font-bold">Hyunsu Lee</div>
+      <div class="text-sm opacity-70">Physical AI Systems Engineer</div>
     </div>
     <SideBarMenu sideBarActiveItemID={sideBarActiveItemID} />
     <SideBarFooter />

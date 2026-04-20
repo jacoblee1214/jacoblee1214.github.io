@@ -1,0 +1,90 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="About" sideBarActiveItemID="about">
+  <div class="mb-8">
+    <div class="text-4xl w-full font-bold mb-4">About</div>
+    <p class="text-lg">
+      I'm Hyunsu — an AI engineer who has spent the last decade figuring out how to make machine
+      learning models actually work outside of papers.
+    </p>
+  </div>
+
+  <div class="mb-5">
+    <div class="text-2xl w-full font-bold">The long version</div>
+  </div>
+
+  <div class="mb-6 text-justify leading-relaxed">
+    <p class="mb-4">
+      I didn't start in robotics. I started in electronics — a B.S. and M.S. from Chung-Ang
+      University working on deep learning for image recognition. My master's thesis was about
+      CNN architectures for image content search. This was 2016–2018, when convolutional networks
+      still felt new.
+    </p>
+    <p class="mb-4">
+      Then I moved to Seoul National University for my Ph.D. under Prof. Sung-Hoon Ahn, and my
+      focus shifted from pure algorithms to <b>deploying AI into real systems</b>. Over six years,
+      I worked on problems that didn't fit neatly into any single field:
+    </p>
+    <ul class="list-disc mx-6 mb-4 grid gap-2">
+      <li>CNN-based defect detection for Korean sewing factories that actually ran on factory floors</li>
+      <li>Vision and sound-based anomaly detection for 3D printers — published in <i>Journal of Manufacturing Systems</i> (IF 12.1)</li>
+      <li>A sound-based multi-device monitoring system using CNNs (top 6% in Operations Research)</li>
+      <li>Collaborating with Fraunhofer IPT and RWTH Aachen on a Korea–Germany smart manufacturing project</li>
+    </ul>
+    <p class="mb-4">
+      But the project that changed how I think was <b>Tanzania</b>. For four years, I led the AI
+      and IoT portion of a $2.24M project to install solar micro-grids and electric motorcycle
+      systems in rural Arusha. My Ph.D. thesis came out of this — building tiny ML models that ran
+      on low-power hardware in an environment where reliability wasn't a preference, it was
+      survival.
+    </p>
+    <p class="mb-4">
+      That experience taught me something that papers rarely discuss: <b>the interesting problems
+      live at the boundary between the model and the physical world.</b> Sensor drift. Compute
+      constraints. Data distributions that shift when the weather changes. Edge cases that only
+      appear after months of deployment.
+    </p>
+    <p class="mb-4">
+      After a postdoc at Seoul National University and a visiting researcher stint at the
+      University of Connecticut, I moved into humanoid robotics research — now working on
+      vision-language-action models and dexterous manipulation.
+    </p>
+  </div>
+
+  <div class="mb-5">
+    <div class="text-2xl w-full font-bold">What I think about</div>
+  </div>
+
+  <div class="mb-6 text-justify leading-relaxed">
+    <p class="mb-4">
+      Humanoid robots are the most demanding deployment environment we've ever built AI for.
+      They combine every problem I've worked on — edge compute, sensor fusion, real-time
+      reliability, distribution shift, heterogeneous hardware — and add new ones. VLA models are
+      a remarkable step, but getting them to run robustly on actual hardware is where I think
+      the next decade of interesting problems lives.
+    </p>
+    <p class="mb-4">
+      Outside of work, I build things. I'm putting together my own personal AI agent ("Jarvis"),
+      hacking on Claude's skill system, and running my own VLM/LLM experiments. I think the best
+      roboticists are also builders at heart.
+    </p>
+  </div>
+
+  <div class="mb-5">
+    <div class="text-2xl w-full font-bold">Where I'd like to go</div>
+  </div>
+
+  <div class="mb-6 text-justify leading-relaxed">
+    <p class="mb-4">
+      I'm based in Seoul. Over the longer term, I'm interested in senior engineering and research
+      roles at companies building the next generation of humanoid and physical AI systems —
+      places where deep model work meets real hardware deployment.
+    </p>
+    <p class="mb-4">
+      If any of this resonates, I'd love to talk. You can reach me at
+      <a class="link link-primary" href="mailto:jlhs814@gmail.com">jlhs814@gmail.com</a>.
+    </p>
+  </div>
+</BaseLayout>
