@@ -1,0 +1,10 @@
+---
+// research_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오
+import BaseLayout from "../../layouts/BaseLayout.astro";
+const { frontmatter } = Astro.props;
+---
+<BaseLayout title={frontmatter.title} description={frontmatter.description}>
+  <article class="prose max-w-none" lang="ko">
+    <slot />
+  </article>
+</BaseLayout>
