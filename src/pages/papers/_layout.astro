@@ -1,0 +1,17 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+const { frontmatter } = Astro.props;
+const links = [["논문", frontmatter.paper], ["코드", frontmatter.code], ["프로젝트", frontmatter.project]].filter(([, url]) => url);
+---
+<BaseLayout title={frontmatter.title} description={frontmatter.description} sideBarActiveItemID="papers">
+  <article class="prose max-w-none" lang="ko">
+    <h1 class="mb-2">{frontmatter.title}</h1>
+    {frontmatter.date && (
+      <p class="mt-0 text-sm opacity-70">
+        {frontmatter.date}
+        {links.map(([label, url]) => <> · <a href={url} target="_blank" rel="noopener noreferrer">{label} ↗</a></>)}
+      </p>
+    )}
+    <slot />
+  </article>
+</BaseLayout>
