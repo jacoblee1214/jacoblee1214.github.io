@@ -7,8 +7,10 @@ description: "로봇 학습 논문을 깊게 읽고, 공개된 수치를 재계�
 
 로봇 학습(VLA, 제어, 물리 기반 학습) 논문을 깊게 읽고, 공개된 수치를 재계산하거나 코드와 대조하며 정리한 노트입니다. 원본 자료(리포트 PDF, 분석 문서, 검증 스크립트)는 [paper-notes](https://github.com/jacoblee1214/paper-notes)에 있습니다.
 
-## 논문 (11)
+## 논문 (14)
 
+- 2026-10-29 · [Dust 읽기: 역전파 없이 Transformer를 학습한다, 그런데 무엇과 비교했나](/papers/dust/) — 활성값을 토큰마다 흔들어 forward만으로 gradient를 추정하는 Dust를, 부록 표 재계산, 연산량 환산, 공식 코드 대조, numpy toy로 읽었습니다.
+- 2026-10-29 · [AW-0 읽기: 코드로 계획하는 World Action Model, 그런데 이득은 어디서 오는가](/papers/agentic_wam/) — 코드·미래 영상·행동을 한 번에 denoise하는 AW-0를 표 재계산, RoboTwin 공식 리더보드 대조, 공개 코드 대조로 읽었습니다.
 - 2026-10-28 · [ZeroDex 읽기: 시연 없이 dexterous 손을 움직이는 다시점 VLM 그라운딩, 숫자는 어디서 나왔나](/papers/zerodex/) — VLM의 2D 키포인트를 여러 보정 시점의 합의로 3D에 올려 dexterous 손을 zero-shot으로 움직이는 ZeroDex를, 표를 재계산하고 핵심 식을 toy로 구현하며 v1과 대조해 읽었습니다.
 - 2026-10-28 · [RAG-Anything 읽기: 표를 검산하고 코드를 열어 보니](/papers/rag_anything/) — 그림·표·수식까지 지식 그래프에 넣는 멀티모달 문서 RAG인 RAG-Anything을, 표를 다시 계산하고 공개 코드와 대조하며 읽었습니다.
 - 2026-10-28 · [Hydra-0 읽기: 숫자는 맞는데, 무엇과 비교했나](/papers/hydra0/) — 로봇 행동을 픽셀 궤적으로 표현하는 NVIDIA의 world model Hydra-0을, 공개된 수치를 모두 재계산하며 읽었습니다.
@@ -19,4 +21,5 @@ description: "로봇 학습 논문을 깊게 읽고, 공개된 수치를 재계�
 - 2026-10-28 · [DexPolicy 읽기: 잡음을 줄이면 나아진다, 그런데 무엇과 비교했나](/papers/dexpolicy/) — PPO의 행동 잡음 σ를 학습 step에 따라 줄이는 DexPolicy를, 표를 재계산하고 공개 코드·기반 환경과 대조하며 toy로 다시 따져 읽었습니다.
 - 2026-10-28 · [DDPG 다시 읽기: 표적망은 확실하고, 나머지는 구현마다 다르다](/papers/ddpg/) — 연속 제어 off-policy RL의 출발점인 DDPG를 Table 1 재계산, 주요 구현 4종 대조, numpy toy로 다시 읽었습니다.
 - 2026-10-28 · [Contact-Grounded Policy 읽기: 촉각을 예측해서 제어기 목표로 바꾸면 무엇이 달라지나](/papers/contact_grounded_policy/) — 다지 손 visuotactile 정책 CGP를, 표를 재계산하고 핵심 사상을 물리식과 3-DoF 손가락 toy로 다시 유도하며 읽었습니다.
+- 2026-10-28 · [Chronos Policy 읽기: 시간을 알려 주면 정책이 강해진다, 그런데 어디까지가 시간 덕인가](/papers/chronospolicy/) — 관측 캡처 시각과 행동 실행 시각을 RoPE로 넣는 Chronos Policy를, 논문 표와 프로젝트 페이지 원값을 대조하고 시드별 성공 횟수까지 역산하며 읽었습니다.
 - 2026-10-28 · [AlphaNIST 읽기: 이진 보상 하나로 조립 보드 20개 과제, 그런데 98.2%는 어디서 시작한 성공률인가](/papers/alphanist/) — 이진 성공 보상과 PPO 정책 하나로 NIST 조립 보드 20개 과제를 푸는 AlphaNIST를, 그림을 픽셀로 판독하고 SGS·OmniReset 원본과 대조하며 읽었습니다.
