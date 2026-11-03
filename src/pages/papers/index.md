@@ -7,8 +7,9 @@ description: "로봇 학습 논문을 깊게 읽고, 공개된 수치를 재계�
 
 로봇 학습(VLA, 제어, 물리 기반 학습) 논문을 깊게 읽고, 공개된 수치를 재계산하거나 코드와 대조하며 정리한 노트입니다. 원본 자료(리포트 PDF, 분석 문서, 검증 스크립트)는 [paper-notes](https://github.com/jacoblee1214/paper-notes)에 있습니다.
 
-## 논문 (25)
+## 논문 (26)
 
+- 2026-11-03 · [GNR 읽기: MPC가 푼 궤적으로 배운 생성기, 그 이득은 어디서 오나](/papers/gnr/) — 사람 시연을 로봇손 궤적으로 옮기는 물리 기반 리타겟팅을 조건부 flow matching으로 상각한 GNR을, 표를 다시 계산하고 pass@S 곡선의 구조를 맞추고 toy로 가설을 시험하며 읽었습니다.
 - 2026-10-30 · [Nemotron 3.5 Super VL 기술 보고서 읽기: 120B-A12B 하이브리드 MoE를 공개 체크포인트로 검증하기](/papers/nemotron35_super_vl/) — NVIDIA의 Nemotron 3.5 Super VL·Lightning 기술 보고서를, 공개 config와 safetensors 헤더로 구조를 확인하고 표·블로그 수치를 재계산하며 읽었습니다.
 - 2026-10-30 · [Nemotron 3.5 Bolt 24GB 읽기: 이름의 24GB는 텍스트 전용이고, 속도는 2비트가 아니라 Mamba가 정한다](/papers/nemotron35_bolt/) — 120B-A12B VLM을 2비트 74B-A9B로 줄여 24 GB에 넣은 Nemotron 3.5 Bolt를, 공개 config와 GGUF 헤더로 메모리 표를 대조하고 디코드 대역폭을 계산하며 읽었습니다.
 - 2026-10-29 · [ThinkWorld 읽기: 이득의 대부분은 '추론'이 아니라 미래 예측 보조 손실에서 나왔다](/papers/thinkworld/) — 손목 움직임 토큰으로 미래를 상상하고 그 일치로 VLA를 강화하는 ThinkWorld를, 표를 재계산하고 공개 리더보드와 대조하며 읽었습니다.
