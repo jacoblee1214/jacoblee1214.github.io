@@ -6,6 +6,8 @@ description: "kinesthetic 시연의 접촉력을 위치 목표에 담아 손가�
 tags: ["robotics", "dexterous-manipulation", "imitation-learning", "force-sensing", "impedance-control", "paper-review"]
 paper: "https://arxiv.org/abs/2501.10356"
 project: "https://clairelc.github.io/dexforce.github.io/"
+venue: "RA-L 2025"
+venue_note: "프로젝트 페이지 기준 2025년 6월 게재"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

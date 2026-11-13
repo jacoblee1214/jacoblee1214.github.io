@@ -7,6 +7,7 @@ tags: ["robotics", "tactile", "grasp-control", "reflex", "paper-review"]
 paper: "https://arxiv.org/abs/2605.23568"
 code: "https://github.com/shayfeng/tactile-reflex-open-source"
 project: "https://shayfeng.github.io/TactileReflex/"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

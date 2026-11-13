@@ -6,6 +6,7 @@ description: "연속 제어 off-policy RL의 출발점인 DDPG를 Table 1 재계
 tags: ["reinforcement-learning", "continuous-control", "actor-critic", "ddpg", "paper-review"]
 paper: "https://arxiv.org/abs/1509.02971"
 code: "https://github.com/DLR-RM/stable-baselines3"
+venue: "ICLR 2016"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

@@ -6,6 +6,8 @@ description: "불완전한 시뮬레이션으로 너트 조이기와 드라이�
 tags: ["robotics", "dexterous-manipulation", "sim-to-real", "tactile", "behavior-cloning", "paper-review"]
 paper: "https://arxiv.org/abs/2512.02011"
 code: "https://github.com/x-robotics-lab/dexscrew"
+venue: "ICRA 2026"
+venue_note: "arXiv Journal ref"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

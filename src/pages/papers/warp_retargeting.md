@@ -7,6 +7,8 @@ tags: ["retargeting", "whole-body", "mobile-manipulation", "imitation-learning",
 paper: "arXiv:2606.29940 v2 (CoRL 2026, 프로젝트 페이지 표기)"
 code: "https://github.com/Euler-Rodrigues-Lab/WARP_retargeting (솔버 제외 공개 릴리스)"
 project: "https://warp-retargeting.github.io/"
+venue: "CoRL 2026"
+venue_note: "프로젝트 페이지·저장소 README 표기 (arXiv에서 독립 확인 못 함)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

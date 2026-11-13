@@ -6,6 +6,7 @@ description: "VLA가 국면마다 행동을 합쳐 시연보다 빠르게 움직
 tags: ["robotics", "vla", "action-chunking", "imitation-learning", "paper-review"]
 paper: "https://arxiv.org/abs/2610.25961"
 project: "https://pacevla.github.io"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

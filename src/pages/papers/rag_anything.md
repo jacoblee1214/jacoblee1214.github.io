@@ -6,6 +6,7 @@ description: "그림·표·수식까지 지식 그래프에 넣는 멀티모달 
 tags: ["rag", "multimodal", "knowledge-graph", "document-qa", "paper-review"]
 paper: "https://arxiv.org/abs/2510.12323"
 code: "https://github.com/HKUDS/RAG-Anything"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

@@ -6,6 +6,7 @@ description: "이미지 특징을 40³ 복셀 볼륨으로 올리고 공간 토�
 tags: ["로봇 학습", "확산 정책", "3D 표현", "모방 학습", "분석"]
 paper: "arXiv:2603.17720v2 (Zhou, Xue, Ye, Yuan, Zhao, Jiang, IROS 2026 채택)"
 project: "https://yzc0731.github.io/VolumeDP/"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

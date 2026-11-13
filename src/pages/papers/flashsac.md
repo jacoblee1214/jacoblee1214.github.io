@@ -7,6 +7,8 @@ tags: ["reinforcement-learning", "SAC", "sim-to-real", "humanoid", "off-policy"]
 paper: "arXiv:2604.04539 (FlashSAC, RSS 2026, arXiv 댓글 기준)"
 code: "https://github.com/Holiday-Robot/FlashSAC (MIT, 커밋 87edc90 기준 정적 읽기)"
 project: "https://holiday-robot.github.io/FlashSAC/"
+venue: "RSS 2026"
+venue_note: "arXiv Comments \"RSS'26\""
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

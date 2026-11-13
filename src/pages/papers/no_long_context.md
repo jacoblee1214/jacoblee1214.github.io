@@ -6,6 +6,7 @@ description: "에이전트 문맥을 자주 압축하면 정확도는 거의 그
 tags: ["llm-agents", "context-management", "compaction", "long-context", "inference-cost", "paper-review"]
 paper: "https://arxiv.org/abs/2611.05306"
 project: "https://research.nvidia.com/labs/lpr/lfi/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

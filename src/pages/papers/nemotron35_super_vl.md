@@ -6,6 +6,7 @@ description: "NVIDIA의 Nemotron 3.5 Super VL·Lightning 기술 보고서를, �
 tags: ["llm", "vlm", "mixture-of-experts", "mamba", "quantization", "nvfp4", "speculative-decoding", "tech-report-review"]
 paper: "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3.5-Super-and-Lightning-Technical-Report.pdf"
 code: "https://github.com/NVIDIA-NeMo/Nemotron"
+venue: "기술 보고서·블로그"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

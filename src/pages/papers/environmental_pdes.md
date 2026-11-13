@@ -7,6 +7,7 @@ tags: ["localization", "particle-filter", "PDE", "environmental-monitoring", "IR
 paper: "arXiv:2608.00272 (Fuentes et al., IROS 2026 채택)"
 code: "공식 코드 미공개 (프로젝트 페이지: Code coming soon)"
 project: "https://localization-environmental-pdes.github.io/"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

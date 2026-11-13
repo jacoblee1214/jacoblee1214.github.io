@@ -7,6 +7,7 @@ tags: ["robotics", "dexterous-manipulation", "retargeting", "reinforcement-learn
 paper: "https://arxiv.org/abs/2610.01849"
 code: "https://github.com/Holiday-Robot/FlashDexRetarget"
 project: "https://holiday-robot.github.io/FlashDexRetarget/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

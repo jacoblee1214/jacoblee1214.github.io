@@ -6,6 +6,7 @@ description: "산업 작업을 리셋 없이 반복 평가하는 시뮬레이터
 tags: ["robotics", "simulation", "benchmark", "industrial", "statistics", "paper-review"]
 paper: "https://arxiv.org/abs/2611.11789"
 project: "https://holiday-robotics.com/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

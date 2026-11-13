@@ -6,6 +6,7 @@ description: "물체 표면별 허용 하중 지도로 dexterous 파지를 고�
 tags: ["robotics", "dexterous-manipulation", "grasp-planning", "impedance-control", "paper-review"]
 paper: "https://arxiv.org/abs/2604.05697"
 code: "https://github.com/eliizavetas/GraspSense"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

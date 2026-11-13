@@ -6,6 +6,7 @@ description: "활성값을 토큰마다 흔들어 forward만으로 gradient를 �
 tags: ["optimization", "zeroth-order", "evolution-strategies", "transformer", "pretraining", "paper-review"]
 paper: "https://qlabs.sh/research/dust"
 code: "https://github.com/qlabs-eng/dust"
+venue: "기술 보고서·블로그"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

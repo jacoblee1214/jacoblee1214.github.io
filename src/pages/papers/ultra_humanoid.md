@@ -7,6 +7,7 @@ tags: ["robotics", "humanoid", "loco-manipulation", "retargeting", "statistics",
 paper: "https://arxiv.org/abs/2603.03279"
 code: "https://github.com/Sirui-Xu/ULTRA"
 project: "https://ultrahumanoid.github.io/"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

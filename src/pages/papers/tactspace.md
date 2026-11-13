@@ -6,6 +6,7 @@ description: "시뮬 촉각과 실측 정전용량을 같은 자극끼리 짝지
 tags: ["tactile", "sim-to-real", "representation-learning", "IROS2026"]
 paper: "arXiv:2606.18959v1"
 code: "https://github.com/leggedrobotics/TactSpace (메타 저장소, 시뮬레이터·정렬 저장소는 접근 불가)"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

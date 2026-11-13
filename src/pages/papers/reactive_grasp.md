@@ -6,6 +6,7 @@ description: "물체 메쉬와 관절각만으로 손 전체 링크의 접점을
 tags: ["robotics", "dexterous-manipulation", "grasping", "force-control", "paper-review"]
 paper: "https://arxiv.org/abs/2609.30082"
 project: "https://sangminkim-99.github.io/reactive-grasp-whole-hand/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

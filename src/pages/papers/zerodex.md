@@ -6,6 +6,7 @@ description: "VLM의 2D 키포인트를 여러 보정 시점의 합의로 3D에 
 tags: ["robotics", "dexterous-manipulation", "vision-language-model", "zero-shot", "paper-review"]
 paper: "https://arxiv.org/abs/2606.19340"
 project: "https://jlogkim.github.io/zerodex/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

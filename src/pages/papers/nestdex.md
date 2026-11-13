@@ -6,6 +6,7 @@ description: "다지 손 텔레옵에서 손가락을 작은 proprio 기술 정�
 tags: ["robotics", "dexterous-manipulation", "teleoperation", "imitation-learning", "paper-review"]
 paper: "https://arxiv.org/abs/2608.13362"
 project: "https://aus.bot/research/nestdex/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

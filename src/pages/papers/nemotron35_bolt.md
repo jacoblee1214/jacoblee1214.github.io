@@ -6,6 +6,7 @@ description: "120B-A12B VLM을 2비트 74B-A9B로 줄여 24 GB에 넣은 Nemotro
 tags: ["llm", "vlm", "quantization", "moe", "mamba", "speculative-decoding", "local-inference", "paper-review"]
 paper: "https://arxiv.org/abs/2610.33039"
 project: "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-24GB/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

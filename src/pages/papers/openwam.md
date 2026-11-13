@@ -7,6 +7,7 @@ tags: ["robotics", "world-action-model", "vla", "flow-matching", "pretraining", 
 paper: "https://arxiv.org/abs/2609.07398"
 code: "https://github.com/OpenWAM-Official/OpenWAM"
 project: "https://openwam-official.github.io/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

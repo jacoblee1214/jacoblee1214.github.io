@@ -6,6 +6,8 @@ description: "다지 손 visuotactile 정책 CGP를, 표를 재계산하고 핵�
 tags: ["robotics", "dexterous-manipulation", "tactile", "diffusion-policy", "compliance-control", "paper-review"]
 paper: "https://arxiv.org/abs/2603.05687"
 project: "https://contact-grounded-policy.github.io/"
+venue: "RSS 2026"
+venue_note: "원문·프로젝트 페이지 표기"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

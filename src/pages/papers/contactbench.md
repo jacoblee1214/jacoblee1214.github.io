@@ -7,6 +7,7 @@ tags: ["robotics", "benchmark", "contact-rich", "tactile", "statistics", "paper-
 paper: "https://arxiv.org/abs/2610.24512"
 code: "https://github.com/Michaelwyx/contactbench-sim"
 project: "https://jingyi-xiang.github.io/contactbench/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

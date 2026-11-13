@@ -7,6 +7,7 @@ tags: ["VLA", "flow-matching", "IMLE", "LIBERO", "통계"]
 paper: "arXiv:2609.10915 (IROS 2026 채택)"
 code: "https://github.com/kianhk6/IMLE-VLA (Apache-2.0)"
 project: "https://kianhk6.github.io/IMLE-VLA/"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

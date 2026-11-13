@@ -6,6 +6,7 @@ description: "손과 물체를 3차원 파티클로 보고 행동을 파티클 �
 tags: ["world-model", "dexterous-manipulation", "cross-embodiment", "MPC", "IROS2026"]
 paper: "arXiv:2511.01177 (IROS 2026 채택)"
 project: "https://alan-heoooh.github.io/dexwm.html"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

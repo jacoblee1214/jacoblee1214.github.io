@@ -6,6 +6,7 @@ description: "GPT-6-Astra를 촉각 정책으로 쓴 논문을 표 재계산으�
 tags: ["robotics", "tactile", "foundation-model", "llm-policy", "evaluation", "paper-review"]
 paper: "https://arxiv.org/abs/2610.28457"
 project: "https://gpt-as-tactile-policy.github.io/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

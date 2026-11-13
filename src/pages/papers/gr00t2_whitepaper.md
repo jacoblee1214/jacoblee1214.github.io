@@ -6,6 +6,7 @@ description: "NVIDIA 백서 GR00T 2의 구조, 데이터, 평가 수치를 다�
 tags: ["robot-learning", "vla", "world-action-model", "nvidia", "evaluation"]
 paper: "GR00T 2: Scaling Robot Foundation Models for Generalization, Dexterity, and Adaptation (NVIDIA, 2026-11, arXiv 없음)"
 project: "https://research.nvidia.com/labs/gear/gr00t-2/"
+venue: "기술 보고서·블로그"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

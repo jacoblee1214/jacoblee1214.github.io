@@ -6,6 +6,8 @@ description: "사람 장갑 촉각을 로봇 세계모델에 섞는 DexTouch-WM�
 tags: ["tactile", "world-model", "dexterous-manipulation", "human-data", "IROS-workshop"]
 paper: "arXiv:2609.20649 (v2)"
 code: "공식 코드 없음 (GitHub·웹 조사, 2026-11-10)"
+venue: "IROS 2026 워크숍"
+venue_note: "IROS 2026 워크숍(RoBoWoMo), 라이트닝 토크 (본 트랙 아님)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

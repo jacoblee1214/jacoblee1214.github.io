@@ -6,6 +6,7 @@ description: "로봇 행동을 픽셀 궤적으로 표현하는 NVIDIA의 world 
 tags: ["robotics", "world-model", "video-generation", "policy-evaluation", "paper-review"]
 paper: "https://arxiv.org/abs/2608.18077"
 project: "https://nvidia-isaac.github.io/video_to_data/hydra-0/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

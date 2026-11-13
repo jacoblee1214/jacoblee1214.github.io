@@ -6,6 +6,7 @@ description: "PPO의 행동 평균을 VLA 교사 행동에 MSE로 당기는 항 
 tags: ["VLA", "reinforcement-learning", "policy-distillation", "ManiSkill", "IROS2026"]
 paper: "arXiv:2503.05833 (Refined Policy Distillation, IROS 2026 채택)"
 code: "https://github.com/Refined-Policy-Distillation/RPD (Apache-2.0)"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

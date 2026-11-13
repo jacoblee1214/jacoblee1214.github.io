@@ -7,6 +7,7 @@ tags: ["autonomous-driving", "vla", "edge-inference", "speculative-decoding", "j
 paper: "NVIDIA 기술 블로그: Running AV Reasoning Models Within Onboard Compute and Latency Limits (2026-11-10)"
 code: "https://github.com/NVlabs/alpamayo2-edge"
 project: "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/"
+venue: "기술 보고서·블로그"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

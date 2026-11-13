@@ -6,6 +6,7 @@ description: "고무줄을 한 번 당긴 기록으로 시뮬 파라미터를 �
 tags: ["system-identification", "sim2real", "elastic-objects", "IROS2026"]
 paper: "arXiv:2607.23268 (Kang, Kim, Song, Park; IROS 2026 채택)"
 code: "공식 코드 미공개 (2026-11-11 확인)"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

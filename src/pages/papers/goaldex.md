@@ -6,6 +6,8 @@ description: "CoRL 2026 GoalDex 논문을 표 재계산, 검정, 대칭 물체 �
 tags: ["robotics", "dexterous-manipulation", "in-hand", "image-goal", "sim-to-real", "paper-review"]
 paper: "https://arxiv.org/abs/2611.02171"
 project: "https://rffr.leggedrobotics.com/works/goaldex/"
+venue: "CoRL 2026"
+venue_note: "원문 1쪽 표기"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

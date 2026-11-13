@@ -5,6 +5,7 @@ date: "2026-11-10"
 description: "IROS 2026 AdaVLA를 표 재계산, 지연 산술, 곡률 기준 toy로 읽었습니다. 지연 이득은 평균 2–3 NFE에서 나오고, 중점 평가 방식에 오차 원인이 있었습니다."
 tags: ["robotics", "vla", "flow-matching", "inference-acceleration", "lerobot", "paper-review"]
 paper: "https://arxiv.org/abs/2608.29208"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

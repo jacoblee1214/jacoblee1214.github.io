@@ -7,6 +7,7 @@ tags: ["VLA", "latent-action", "학습 목표", "LIBERO", "통계"]
 paper: "arXiv:2608.03563 (IROS 2026 채택)"
 code: "https://github.com/DeFisch/UVT (라이선스 파일 없음)"
 project: "https://unified-visuomotor-targets.github.io/"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

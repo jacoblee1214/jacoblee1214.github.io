@@ -6,6 +6,7 @@ description: "IROS 2026 원격조작 임피던스 정책 Stiffness Copilot을, �
 tags: ["impedance-control", "teleoperation", "shared-control", "contact-rich-manipulation", "paper-review"]
 paper: "https://arxiv.org/abs/2603.14068"
 project: "https://stiffness-copilot.github.io"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

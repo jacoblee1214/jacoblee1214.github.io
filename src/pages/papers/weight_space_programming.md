@@ -6,6 +6,7 @@ description: "GPT-6 Astra가 경사하강 없이 신경망 가중치를 읽고, 
 tags: ["interpretability", "weight-editing", "llm-agents", "reinforcement-learning", "paper-review"]
 paper: "https://rikiyat.github.io/blog/weight-space-programming/"
 code: "https://github.com/RikiyaT/lm_understand-logs"
+venue: "기술 보고서·블로그"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

@@ -6,6 +6,7 @@ description: "IROS 2026 촉각 VLA ResTacVLA를, 표를 다시 계산하고 게�
 tags: ["robotics", "tactile", "vla", "contact-rich-manipulation", "predictive-coding", "paper-review"]
 paper: "https://arxiv.org/abs/2607.03387"
 project: "https://awilekong.github.io/ResTacVLA/"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

@@ -6,6 +6,7 @@ description: "손목 움직임 토큰으로 미래를 상상하고 그 일치로
 tags: ["robotics", "vla", "world-model", "human-video", "reinforcement-learning", "paper-review"]
 paper: "https://arxiv.org/abs/2610.37666"
 project: "https://thinkworld-project.github.io"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

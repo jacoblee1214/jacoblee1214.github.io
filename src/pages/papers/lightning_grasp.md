@@ -6,6 +6,7 @@ description: "contact field로 기하와 탐색을 분리해 dexterous grasp를 
 tags: ["robotics", "dexterous-manipulation", "grasp-synthesis", "gpu", "paper-review"]
 paper: "https://arxiv.org/abs/2511.07418"
 code: "https://github.com/zhaohengyin/lightning-grasp"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

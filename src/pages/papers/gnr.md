@@ -6,6 +6,7 @@ description: "사람 시연을 로봇손 궤적으로 옮기는 물리 기반 �
 tags: ["robotics", "dexterous-manipulation", "retargeting", "flow-matching", "sampling-mpc", "paper-review"]
 paper: "https://arxiv.org/abs/2610.12440"
 project: "https://yy-gx.github.io/GNR/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

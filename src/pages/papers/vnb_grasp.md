@@ -6,6 +6,7 @@ description: "다중모드 접촉 믿음을 가우시안 혼합의 재매개변�
 tags: ["grasping", "uncertainty", "CVaR", "reparameterization", "MuJoCo"]
 paper: "Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty (arXiv:2604.25897v2, IROS 2026 채택)"
 code: "https://github.com/coenwerem/vnb-grasp (Apache-2.0, 커밋 23702bd)"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

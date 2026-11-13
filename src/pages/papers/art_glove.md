@@ -7,6 +7,8 @@ tags: ["tactile-glove", "dexterous-manipulation", "data-collection", "retargetin
 paper: "arXiv:2606.16370 (v1)"
 code: "기계 설계 파일과 BOM만 공개 (GitHub linchangyi1/ART-Glove, 라이선스 표기 없음, 커밋 7e210b8)"
 project: "https://linchangyi1.github.io/ART-Glove"
+venue: "학회 표기 없음 (arXiv)"
+venue_note: "확인 불가 (arXiv 댓글과 저널 참조 없음, 본문과 프로젝트 페이지에 학회 표기 없음)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

@@ -5,6 +5,7 @@ date: "2026-11-10"
 description: "IROS 2026 Geometric Entropy(H_G)를 재계산, 그림 판독 검정, 합성 궤적 toy로 읽었습니다. 표 I의 방향은 재현되지만, 역U는 일부 조건에서만 유의했고, 공식 코드는 없습니다."
 tags: ["robotics", "imitation-learning", "data-curation", "diffusion-policy", "act", "vla", "paper-review"]
 paper: "https://arxiv.org/abs/2606.20871"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

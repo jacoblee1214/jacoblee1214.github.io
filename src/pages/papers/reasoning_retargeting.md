@@ -5,6 +5,7 @@ date: "2026-11-10"
 description: "GPT-6 Astra를 Codex에서 돌려 MuJoCo 피드백으로 휴머노이드 객체 상호작용 기준을 고치는 블로그를 원자료로 재계산하고, 통계 검정과 numpy toy로 읽었습니다."
 tags: ["humanoid", "retargeting", "human-object-interaction", "llm-agent", "simulation-feedback", "evaluation"]
 project: "https://narayananpp.github.io/semantic-humanoid-retargeting-blog/"
+venue: "기술 보고서·블로그"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

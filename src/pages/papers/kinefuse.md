@@ -7,6 +7,7 @@ tags: ["in-hand pose tracking", "visuo-haptic fusion", "dexterous manipulation",
 paper: "KineFuse: Kinematic-Aware Haptic Fusion for In-Hand Occluded-Object Pose Tracking (arXiv:2607.14842, IROS 2026 채택)"
 code: "공식 코드 없음 (cold-young/kine-fuse는 프로젝트 페이지뿐, 2026-11-09 확인)"
 project: "https://cold-young.github.io/kine-fuse/"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

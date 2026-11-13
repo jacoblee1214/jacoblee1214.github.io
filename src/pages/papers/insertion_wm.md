@@ -5,6 +5,8 @@ date: "2026-11-10"
 description: "Generalizable Robotic Insertion with World Models(arXiv:2609.28258v1)를 수치 재계산과 2D toy로 읽었습니다. 56% 대 7%는 학습 규모와 입력이 달라 같은 조건의 비교가 아니었습니다."
 tags: ["robotics", "assembly", "insertion", "world-model", "tdmpc2", "paper-review"]
 paper: "https://arxiv.org/abs/2609.28258"
+venue: "IROS 2026"
+venue_note: "arXiv Comments에 학회명만 있음 (채택 상태 불명)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

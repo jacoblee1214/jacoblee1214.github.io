@@ -6,6 +6,7 @@ description: "관절형 도구를 다지 손으로 집어 작동시키는 Mana�
 tags: ["robotics", "dexterous-manipulation", "sim-to-real", "reinforcement-learning", "data-generation", "paper-review"]
 paper: "https://arxiv.org/abs/2606.13677"
 project: "https://zhaohengyin.github.io/mana"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

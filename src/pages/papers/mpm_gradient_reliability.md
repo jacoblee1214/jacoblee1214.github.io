@@ -6,6 +6,8 @@ description: "미분 가능 MPM 식별에서 GPU 원자 덧셈 순서, 유한차
 tags: ["differentiable-simulation", "material-point-method", "numerical-reliability", "system-identification", "IROS2026"]
 paper: "arXiv:2609.34666 (Yang, Wei, Lai, Ji; IROS 2026 워크숍 구두 발표)"
 code: "공식 코드 미공개 (논문·abs 페이지·GitHub 검색에서 찾지 못함)"
+venue: "IROS 2026 워크숍"
+venue_note: "워크숍 구두 발표 (arXiv Comments)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

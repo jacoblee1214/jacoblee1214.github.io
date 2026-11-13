@@ -5,6 +5,7 @@ date: "2026-11-10"
 description: "IROS 2026 Foresight Residual RL을 표 재계산, 곱 검사, 3단계 체인 toy로 읽었습니다. 시드 4개에서 차이는 유의하지만, 곱셈 보상은 가치 추정이 정확할 때만 전역 목적과 같았습니다."
 tags: ["robotics", "rl", "vla", "residual-rl", "reward-shaping", "assembly", "paper-review"]
 paper: "https://arxiv.org/abs/2607.16506"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

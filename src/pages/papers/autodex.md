@@ -7,6 +7,7 @@ tags: ["robotics", "dexterous-grasping", "data-collection", "autonomous-learning
 paper: "https://arxiv.org/abs/2606.23689"
 code: "https://github.com/snuvclab/autodex-code"
 project: "https://snuvclab.github.io/AutoDex/"
+venue: "CoRL 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

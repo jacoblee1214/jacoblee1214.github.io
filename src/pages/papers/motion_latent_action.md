@@ -6,6 +6,7 @@ description: "IROS 2026 논문 Motion-Focused Latent Action을 표 재계산, �
 tags: ["robotics", "vla", "latent-action", "human-video", "cross-embodiment", "paper-review"]
 paper: "https://arxiv.org/abs/2606.18955"
 code: "https://github.com/shuiyigong/Motion-Focused-Latent-Action"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

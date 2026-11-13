@@ -6,6 +6,7 @@ description: "생성 정책의 출발점을 잡음에서 상태 이력으로 바
 tags: ["로봇 학습", "플로우 매칭", "확률적 보간", "행동 청크", "분석"]
 paper: "arXiv:2607.29482 (Miller & Jagersand, IROS 2026 채택)"
 code: "https://github.com/dmiller12/TemporalPolicy (MIT)"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

@@ -7,6 +7,7 @@ tags: ["robotics", "world-action-model", "vla", "code-as-policies", "diffusion",
 paper: "https://arxiv.org/abs/2610.30136"
 code: "https://github.com/ZhuoyangLiu2005/agentic-wam"
 project: "https://agentic-wam.github.io/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

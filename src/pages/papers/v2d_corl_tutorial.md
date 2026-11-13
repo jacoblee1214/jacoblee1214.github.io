@@ -6,6 +6,8 @@ description: "CoRL 2026 튜토리얼 'From Human Videos to Dexterous Robot Capab
 tags: ["robot-learning", "video-to-data", "dexterous-manipulation", "data-validation", "CoRL-2026"]
 code: "https://github.com/nvidia-isaac/video_to_data"
 project: "https://nvidia-isaac.github.io/video_to_data/v2d_corl_tutorial/"
+venue: "CoRL 2026"
+venue_note: "튜토리얼 (논문 아님)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

@@ -6,6 +6,7 @@ description: "일상 영상에서 다지 로봇손 데이터를 만드는 Do as 
 tags: ["robotics", "dexterous-manipulation", "retargeting", "flow-matching", "paper-review"]
 paper: "https://arxiv.org/abs/2606.19333"
 code: "https://github.com/malik-group/do-as-i-do"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

@@ -7,6 +7,7 @@ tags: ["3d-reconstruction", "bundle-adjustment", "transformer", "pose-estimation
 paper: "https://arxiv.org/abs/2606.03287"
 code: "https://github.com/zhangganlin/BA-T"
 project: "https://ganlinzhang.xyz/BA-T/"
+venue: "NeurIPS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

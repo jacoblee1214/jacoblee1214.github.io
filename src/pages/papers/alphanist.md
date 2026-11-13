@@ -6,6 +6,8 @@ description: "이진 성공 보상과 PPO 정책 하나로 NIST 조립 보드 20
 tags: ["robotics", "reinforcement-learning", "assembly", "sparse-reward", "paper-review"]
 paper: "https://arxiv.org/abs/2610.13354"
 project: "https://alpha-nist.github.io/"
+venue: "학회 표기 없음 (arXiv)"
+venue_note: "ICRA 투고 (arXiv Comments, 채택 미확인)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

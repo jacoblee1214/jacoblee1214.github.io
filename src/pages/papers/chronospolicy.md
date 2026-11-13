@@ -6,6 +6,7 @@ description: "관측 캡처 시각과 행동 실행 시각을 RoPE로 넣는 Chr
 tags: ["robotics", "imitation-learning", "diffusion-policy", "latency", "rope", "paper-review"]
 paper: "https://arxiv.org/abs/2610.13929"
 project: "https://changhaowang.github.io/chronospolicy/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

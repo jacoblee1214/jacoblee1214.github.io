@@ -7,6 +7,7 @@ tags: ["robotics", "tactile", "disassembly", "diffusion-policy", "paper-review"]
 paper: "https://arxiv.org/abs/2603.08560"
 code: "https://github.com/AdeeshDesai/CONTACT"
 project: "https://vict0rhu.github.io/CONTACT-Website/"
+venue: "IROS 2026"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

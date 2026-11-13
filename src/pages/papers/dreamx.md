@@ -6,6 +6,7 @@ description: "영상 diffusion 백본으로 latent action을 학습하는 DreamX
 tags: ["robotics", "latent-action", "video-diffusion", "cross-embodiment", "vla", "paper-review"]
 paper: "https://arxiv.org/abs/2611.05377"
 project: "https://cvlab-kaist.github.io/DreamX/"
+venue: "학회 표기 없음 (arXiv)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 
