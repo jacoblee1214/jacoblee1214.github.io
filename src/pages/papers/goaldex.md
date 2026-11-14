@@ -7,7 +7,7 @@ tags: ["robotics", "dexterous-manipulation", "in-hand", "image-goal", "sim-to-re
 paper: "https://arxiv.org/abs/2611.02171"
 project: "https://rffr.leggedrobotics.com/works/goaldex/"
 venue: "CoRL 2026"
-venue_note: "원문 1쪽 표기"
+venue_note: "포스터 (corl.org 공식 채택 목록, 2026-11-14 확인)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

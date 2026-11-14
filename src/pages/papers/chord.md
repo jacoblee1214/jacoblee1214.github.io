@@ -8,7 +8,7 @@ paper: "https://arxiv.org/abs/2607.00033"
 code: "https://github.com/nvidia-isaac/video_to_data/tree/main/robotic_grounding"
 project: "https://nvidia-isaac.github.io/video_to_data/chord/"
 venue: "CoRL 2026"
-venue_note: "프로젝트 페이지 표기"
+venue_note: "포스터 (corl.org 공식 채택 목록, 2026-11-14 확인)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 

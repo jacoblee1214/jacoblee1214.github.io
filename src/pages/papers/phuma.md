@@ -7,7 +7,7 @@ tags: ["humanoid", "motion-retargeting", "dataset", "locomotion", "reproducibili
 paper: "https://arxiv.org/abs/2510.26236"
 code: "https://github.com/davian-robotics/PHUMA"
 venue: "CoRL 2026"
-venue_note: "Spotlight (원문 머리글·프로젝트 페이지 표기)"
+venue_note: "Spotlight (corl.org 공식 채택 목록, 2026-11-14 확인)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 
