@@ -9,9 +9,9 @@ description: "로봇 학습 논문을 깊게 읽고, 공개된 수치를 재계�
 
 학회별로 묶었습니다. 학회는 arXiv Comments·Journal ref, 원문, 프로젝트 페이지의 표기를 따랐고, 묶음 안에서는 날짜 역순입니다.
 
-## 논문 (213)
+## 논문 (214)
 
-CoRL 2026 (51) · CoRL 2026 워크숍 (3) · IROS 2026 (23) · IROS 2026 워크숍 (2) · ICLR 2026 (5) · RSS 2026 (4) · NeurIPS 2026 (3) · CVPR 2026 (2) · ECCV 2026 (1) · ICML 2026 (1) · ICRA 2026 (1) · RA-L 2026 (1) · Science Robotics 2026 (1) · RSS 2025 (7) · CoRL 2025 (3) · ICCV 2025 (3) · NeurIPS 2025 (3) · ICML 2025 (2) · ICLR 2025 (1) · ICRA 2025 (1) · Nature 2025 (1) · RA-L 2025 (1) · CoRL 2024 (4) · ICLR 2024 (2) · RSS 2024 (2) · ICML 2024 (1) · IJRR 2024 (1) · NeurIPS 2024 (1) · ICML 2023 (1) · RSS 2023 (1) · ICLR 2016 (1) · 학회 표기 없음 (arXiv) (70) · 기술 보고서·블로그 (9)
+CoRL 2026 (51) · CoRL 2026 워크숍 (3) · IROS 2026 (23) · IROS 2026 워크숍 (2) · ICLR 2026 (5) · RSS 2026 (4) · NeurIPS 2026 (3) · CVPR 2026 (2) · ECCV 2026 (1) · ICML 2026 (1) · ICRA 2026 (1) · RA-L 2026 (1) · Science Robotics 2026 (1) · RSS 2025 (7) · CoRL 2025 (3) · ICCV 2025 (3) · NeurIPS 2025 (3) · ICML 2025 (2) · ICLR 2025 (1) · ICRA 2025 (1) · Nature 2025 (1) · RA-L 2025 (1) · CoRL 2024 (4) · ICLR 2024 (2) · RSS 2024 (2) · ICML 2024 (1) · IJRR 2024 (1) · NeurIPS 2024 (1) · CoRL 2023 (1) · ICML 2023 (1) · RSS 2023 (1) · ICLR 2016 (1) · 학회 표기 없음 (arXiv) (70) · 기술 보고서·블로그 (9)
 
 ### CoRL 2026 (51)
 
@@ -227,6 +227,10 @@ CoRL 2026 (51) · CoRL 2026 워크숍 (3) · IROS 2026 (23) · IROS 2026 워크�
 ### NeurIPS 2024 (1)
 
 - 2026-11-21 · [토큰마다 다른 잡음으로 다음 토큰과 전체 시퀀스를 잇기: Diffusion Forcing 읽기](/papers/diffusion_forcing/) — Diffusion Forcing(NeurIPS 2024)을 코드 대조, 표 재계산, 신뢰구간으로 읽었습니다. 구조는 공식 코드와 맞고 계획 실험 주장은 대부분 맞습니다. 다만 시계열 순위 한 곳과 계획 기준선 한 곳이 본문과 다르고, 영상과 로봇 주장은 정량 근거가 부족합니다.
+
+### CoRL 2023 (1)
+
+- 2026-11-22 · [사람 시연 열 개로 데이터를 키울 수 있을까: MimicGen 읽기](/papers/mimicgen/) — CoRL 2023 논문 MimicGen을 표 재계산, 공식 코드 정적 대조, 작은 numpy 검사로 읽었습니다. 변환 식은 맞지만 코드 기본값과 논문 설명이 다른 곳이 있고, 시뮬 결과의 ±는 평가 잡음보다 작게 보고되어 있습니다. 논문 표 전체 재현은 이 맥에서 불가능합니다.
 
 ### ICML 2023 (1)
 
