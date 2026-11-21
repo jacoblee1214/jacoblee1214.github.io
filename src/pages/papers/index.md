@@ -9,9 +9,9 @@ description: "로봇 학습 논문을 깊게 읽고, 공개된 수치를 재계�
 
 학회별로 묶었습니다. 학회는 arXiv Comments·Journal ref, 원문, 프로젝트 페이지의 표기를 따랐고, 묶음 안에서는 날짜 역순입니다.
 
-## 논문 (185)
+## 논문 (186)
 
-CoRL 2026 (45) · CoRL 2026 워크숍 (1) · IROS 2026 (23) · IROS 2026 워크숍 (2) · ICLR 2026 (4) · RSS 2026 (4) · NeurIPS 2026 (3) · CVPR 2026 (2) · ECCV 2026 (1) · ICML 2026 (1) · ICRA 2026 (1) · RA-L 2026 (1) · Science Robotics 2026 (1) · RSS 2025 (4) · CoRL 2025 (3) · ICCV 2025 (3) · NeurIPS 2025 (3) · ICML 2025 (2) · Nature 2025 (1) · RA-L 2025 (1) · ICLR 2024 (2) · CoRL 2024 (1) · ICML 2024 (1) · NeurIPS 2024 (1) · RSS 2024 (1) · ICML 2023 (1) · RSS 2023 (1) · ICLR 2016 (1) · 학회 표기 없음 (arXiv) (61) · 기술 보고서·블로그 (9)
+CoRL 2026 (45) · CoRL 2026 워크숍 (1) · IROS 2026 (23) · IROS 2026 워크숍 (2) · ICLR 2026 (4) · RSS 2026 (4) · NeurIPS 2026 (3) · CVPR 2026 (2) · ECCV 2026 (1) · ICML 2026 (1) · ICRA 2026 (1) · RA-L 2026 (1) · Science Robotics 2026 (1) · RSS 2025 (4) · CoRL 2025 (3) · ICCV 2025 (3) · NeurIPS 2025 (3) · ICML 2025 (2) · Nature 2025 (1) · RA-L 2025 (1) · ICLR 2024 (2) · CoRL 2024 (1) · ICML 2024 (1) · IJRR 2024 (1) · NeurIPS 2024 (1) · RSS 2024 (1) · ICML 2023 (1) · RSS 2023 (1) · ICLR 2016 (1) · 학회 표기 없음 (arXiv) (61) · 기술 보고서·블로그 (9)
 
 ### CoRL 2026 (45)
 
@@ -191,6 +191,10 @@ CoRL 2026 (45) · CoRL 2026 워크숍 (1) · IROS 2026 (23) · IROS 2026 워크�
 ### ICML 2024 (1)
 
 - 2026-11-21 · [EfficientZero V2 읽기: 표를 다시 세어 보니](/papers/efficientzero_v2/) — EfficientZero V2를 표 값으로 다시 세었습니다. DreamerV3보다 낫다는 방향은 강하게 지지되지만, Atari 정규화 평균과 '66개 중 50개'는 표에서 재현되지 않았습니다. 공식 코드는 설정이 논문 Table 3과 다르고 CUDA 전제라 이 노트북에서는 그대로 돌릴 수 없습니다.
+
+### IJRR 2024 (1)
+
+- 2026-11-21 · [행동을 디노이즈하는 정책: Diffusion Policy 표 다시 읽기](/papers/diffusion_policy/) — Diffusion Policy를 arXiv v5 기준으로 읽었습니다. 표를 다시 계산하니 평균 46.9% 향상은 본문 절차로 22%에 그쳤고, 실로봇 Push-T 19/20은 기준선보다 뚜렷이 높지만 R3M 대비 차이는 확인되지 않았습니다. 공식 코드의 학습 설정과 논문 설정도 다릅니다.
 
 ### NeurIPS 2024 (1)
 
