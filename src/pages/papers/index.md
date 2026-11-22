@@ -9,9 +9,9 @@ description: "로봇 학습 논문을 깊게 읽고, 공개된 수치를 재계�
 
 학회별로 묶었습니다. 학회는 arXiv Comments·Journal ref, 원문, 프로젝트 페이지의 표기를 따랐고, 묶음 안에서는 날짜 역순입니다.
 
-## 논문 (274)
+## 논문 (275)
 
-CoRL 2026 (58) · CoRL 2026 워크숍 (3) · IROS 2026 (23) · IROS 2026 워크숍 (2) · ICLR 2026 (6) · ICML 2026 (4) · NeurIPS 2026 (4) · RSS 2026 (4) · CVPR 2026 (2) · ECCV 2026 (1) · ICRA 2026 (1) · RA-L 2026 (1) · Robot Learning 2026 (1) · Science Robotics 2026 (1) · RSS 2025 (11) · ICRA 2025 (6) · CoRL 2025 (3) · ICCV 2025 (3) · ICLR 2025 (3) · NeurIPS 2025 (3) · ICML 2025 (2) · RA-L 2025 (2) · CVPR 2025 (1) · IEEE T-RO 2025 (1) · Nature 2025 (1) · RSS 2024 (6) · CoRL 2024 (5) · ICLR 2024 (2) · ICML 2024 (2) · ICRA 2024 (1) · IJRR 2024 (1) · NeurIPS 2024 (1) · CoRL 2023 (2) · ICRA 2023 (2) · RSS 2023 (2) · ICLR 2023 (1) · ICML 2023 (1) · NeurIPS 2023 (1) · CoRL 2022 (1) · ICLR 2016 (1) · 학회 표기 없음 (arXiv) (85) · 기술 보고서·블로그 (13)
+CoRL 2026 (58) · CoRL 2026 워크숍 (3) · IROS 2026 (23) · IROS 2026 워크숍 (2) · ICLR 2026 (6) · ICML 2026 (4) · NeurIPS 2026 (4) · RSS 2026 (4) · CVPR 2026 (2) · ECCV 2026 (1) · ICRA 2026 (1) · RA-L 2026 (1) · Robot Learning 2026 (1) · Science Robotics 2026 (1) · RSS 2025 (11) · ICRA 2025 (6) · CoRL 2025 (3) · ICCV 2025 (3) · ICLR 2025 (3) · NeurIPS 2025 (3) · ICML 2025 (2) · RA-L 2025 (2) · CVPR 2025 (1) · IEEE T-RO 2025 (1) · Nature 2025 (1) · RSS 2024 (6) · CoRL 2024 (5) · ICLR 2024 (2) · ICML 2024 (2) · ICRA 2024 (1) · IJRR 2024 (1) · IROS 2024 (1) · NeurIPS 2024 (1) · CoRL 2023 (2) · ICRA 2023 (2) · RSS 2023 (2) · ICLR 2023 (1) · ICML 2023 (1) · NeurIPS 2023 (1) · CoRL 2022 (1) · ICLR 2016 (1) · 학회 표기 없음 (arXiv) (85) · 기술 보고서·블로그 (13)
 
 ### CoRL 2026 (58)
 
@@ -269,6 +269,10 @@ CoRL 2026 (58) · CoRL 2026 워크숍 (3) · IROS 2026 (23) · IROS 2026 워크�
 ### IJRR 2024 (1)
 
 - 2026-11-21 · [행동을 디노이즈하는 정책: Diffusion Policy 표 다시 읽기](/papers/diffusion_policy/) — Diffusion Policy를 arXiv v5 기준으로 읽었습니다. 표를 다시 계산하니 평균 46.9% 향상은 본문 절차로 22%에 그쳤고, 실로봇 Push-T 19/20은 기준선보다 뚜렷이 높지만 R3M 대비 차이는 확인되지 않았습니다. 공식 코드의 학습 설정과 논문 설정도 다릅니다.
+
+### IROS 2024 (1)
+
+- 2026-11-22 · [저가 관절 미러로 시연을 모은다: GELLO 읽기](/papers/gello/) — GELLO(IROS 2024)를 사용자 연구 표 재계산과 공식 코드 대조로 읽었습니다. 풀링한 성공률은 VR과 3D 마우스보다 높지만 과제별 차이는 대부분 유의하지 않습니다. 완료 시간과 힘 측정은 수치가 없어 확인하지 못했고, 사람 실험과 실로봇이 필요해 이 맥에서는 재현할 수 없습니다.
 
 ### NeurIPS 2024 (1)
 
