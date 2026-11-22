@@ -9,9 +9,9 @@ description: "로봇 학습 논문을 깊게 읽고, 공개된 수치를 재계�
 
 학회별로 묶었습니다. 학회는 arXiv Comments·Journal ref, 원문, 프로젝트 페이지의 표기를 따랐고, 묶음 안에서는 날짜 역순입니다.
 
-## 논문 (224)
+## 논문 (225)
 
-CoRL 2026 (52) · CoRL 2026 워크숍 (3) · IROS 2026 (23) · IROS 2026 워크숍 (2) · ICLR 2026 (5) · RSS 2026 (4) · NeurIPS 2026 (3) · CVPR 2026 (2) · ICML 2026 (2) · ECCV 2026 (1) · ICRA 2026 (1) · RA-L 2026 (1) · Science Robotics 2026 (1) · RSS 2025 (8) · CoRL 2025 (3) · ICCV 2025 (3) · NeurIPS 2025 (3) · ICLR 2025 (2) · ICML 2025 (2) · ICRA 2025 (1) · Nature 2025 (1) · RA-L 2025 (1) · CoRL 2024 (4) · RSS 2024 (4) · ICLR 2024 (2) · ICML 2024 (1) · IJRR 2024 (1) · NeurIPS 2024 (1) · CoRL 2023 (2) · ICML 2023 (1) · NeurIPS 2023 (1) · RSS 2023 (1) · ICLR 2016 (1) · 학회 표기 없음 (arXiv) (72) · 기술 보고서·블로그 (9)
+CoRL 2026 (52) · CoRL 2026 워크숍 (3) · IROS 2026 (23) · IROS 2026 워크숍 (2) · ICLR 2026 (5) · RSS 2026 (4) · NeurIPS 2026 (3) · CVPR 2026 (2) · ICML 2026 (2) · ECCV 2026 (1) · ICRA 2026 (1) · RA-L 2026 (1) · Science Robotics 2026 (1) · RSS 2025 (8) · CoRL 2025 (3) · ICCV 2025 (3) · NeurIPS 2025 (3) · ICLR 2025 (2) · ICML 2025 (2) · ICRA 2025 (1) · Nature 2025 (1) · RA-L 2025 (1) · CoRL 2024 (4) · RSS 2024 (4) · ICLR 2024 (2) · ICML 2024 (1) · ICRA 2024 (1) · IJRR 2024 (1) · NeurIPS 2024 (1) · CoRL 2023 (2) · ICML 2023 (1) · NeurIPS 2023 (1) · RSS 2023 (1) · ICLR 2016 (1) · 학회 표기 없음 (arXiv) (72) · 기술 보고서·블로그 (9)
 
 ### CoRL 2026 (52)
 
@@ -225,6 +225,10 @@ CoRL 2026 (52) · CoRL 2026 워크숍 (3) · IROS 2026 (23) · IROS 2026 워크�
 ### ICML 2024 (1)
 
 - 2026-11-21 · [EfficientZero V2 읽기: 표를 다시 세어 보니](/papers/efficientzero_v2/) — EfficientZero V2를 표 값으로 다시 세었습니다. DreamerV3보다 낫다는 방향은 강하게 지지되지만, Atari 정규화 평균과 '66개 중 50개'는 표에서 재현되지 않았습니다. 공식 코드는 설정이 논문 Table 3과 다르고 CUDA 전제라 이 노트북에서는 그대로 돌릴 수 없습니다.
+
+### ICRA 2024 (1)
+
+- 2026-11-22 · [60개 데이터셋, 22개 로봇: Open X-Embodiment의 표를 다시 계산해 보기](/papers/open_x_embodiment/) — Open X-Embodiment(ICRA 2024)의 데이터 규모는 공개 메타데이터와 맞습니다. 긍정 전이의 방향도 지지됩니다. 하지만 '50%'와 '3배'는 근사이고, 표 I의 캡션은 표와 맞지 않습니다. 셀 시행 수, 시드, 혼합 가중치는 없습니다. 이 맥에서 전체 재현은 불가능하고, 재계산과 공개 RT-1-X 추론까지가 현실적입니다.
 
 ### IJRR 2024 (1)
 
