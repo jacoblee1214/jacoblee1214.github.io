@@ -2,7 +2,7 @@
 layout: "./_layout.astro"
 title: "소스 분포를 배우면 정책이 좋아지는가: LeaP 읽기"
 date: "2026-11-22"
-description: "CoRL 2026 포스터 LeaP를 표 재계산, 통계 검정, 공식 코드 정적 대조, 작은 토이로 읽었습니다. 소스를 상태 조건부로 바꾸는 효과는 NoPrior 대비 크고 일관되지만, 분산 학습이 핵심이라는 주장은 분리되지 않았고 실로봇 표에는 막대와 본문의 불일치가 있습니다."
+description: "CoRL 2026 포스터 LeaP를 표 재계산, 통계 검정, 공식 코드 정적 대조, 작은 토이로 읽었습니다. 소스를 상태 조건부로 바꾸는 효과는 NoPrior 대비 크고 일관되지만, 분산 학습이 핵심이라는 주장은 분리되지 않았고 실로봇 그림 4에서 읽은 막대 값은 본문 평균과 맞지 않습니다."
 tags: ["robotics", "imitation-learning", "flow-matching", "generative-policy", "paper-review"]
 paper: "https://arxiv.org/abs/2606.17408"
 code: "https://github.com/daimeipo/LeaP"
@@ -32,7 +32,7 @@ venue_note: "포스터 (corl.org 공식 채택 목록)"
 
 **2. A2A, VITA와의 차이는 방향만 확실합니다.** +7.8, +6.5 pp는 과제 단위로 12승 3패(p = 0.035)이고, 과제별로 유의한 과제는 3–4개입니다.
 
-**3. 실로봇 표가 어긋납니다.** 그림 4의 NoPrior 막대(60, 35, 55)의 평균은 50.0%인데 본문은 46.7%이고, "+33.3 pp"는 막대로는 30.0 pp입니다. A2A와의 차이(+11.7 pp)는 3과제 합산 p = 0.21이고 Close Box에서는 A2A가 앞섭니다. 과제당 20회, 한 시드입니다.
+**3. 실로봇 그림의 막대와 본문이 어긋납니다.** 그림 4에서 읽은 NoPrior 막대(60, 35, 55, 그림 판독 값)의 평균은 50.0%인데 본문은 46.7%이고, "+33.3 pp"는 막대로는 30.0 pp입니다. A2A와의 차이(+11.7 pp)는 3과제 합산 p = 0.21이고 Close Box에서는 A2A가 앞섭니다. 과제당 20회, 한 시드입니다.
 
 ![실로봇 막대 값과 Wilson 구간: 우리가 그린 그래프](/papers/source_prior/images/own_real_ci.png)
 
