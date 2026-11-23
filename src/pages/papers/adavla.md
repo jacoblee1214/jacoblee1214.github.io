@@ -6,6 +6,7 @@ description: "IROS 2026 AdaVLA를 표 재계산, 지연 산술, 곡률 기준 to
 tags: ["robotics", "vla", "flow-matching", "inference-acceleration", "lerobot", "paper-review"]
 paper: "https://arxiv.org/abs/2608.29208"
 venue: "IROS 2026"
+venue_note: "IROS 2026 채택 (arXiv 댓글 표기, 공식 목록 미확인)"
 ---
 <!-- paper_export: 내보내기가 만든 파일입니다. 손으로 고치지 마십시오 -->
 
@@ -48,7 +49,7 @@ VLM의 MLP 가지치기 비율도 같은 C로 조절합니다. 그래서 "적응
 
 ![역산 NFE와 구간당 NFE 모형](/papers/adavla/images/nfe_model.png)
 
-## 4. 식 9: 중점 평가점이 틀렸다
+## 4. 식 9: 중점 평가점이 갱신 구간의 중점과 다르다
 
 논문은 중점 속도 v_mid를 τ + (1−τ)/2에서 얻고, 그 값을 ŝ 만큼의 갱신에 씁니다. 두 평가점이 같은 것은 ŝ = (1−τ)/2일 때뿐입니다. 고곡률 분기에서 ŝ가 더 작으면 속도가 틀린 시점에서 나옵니다.
 
