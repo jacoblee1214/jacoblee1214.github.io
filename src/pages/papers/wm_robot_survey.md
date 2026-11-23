@@ -2,7 +2,7 @@
 layout: "./_layout.astro"
 title: "세계 모델 서베이를 숫자로 읽기: World Model for Robot Learning"
 date: "2026-11-20"
-description: "로봇 학습의 세계 모델 서베이(arXiv:2605.00080)를 분류 포괄성, 표 재계산, 주장 대조로 읽었습니다. 표 5의 평균은 모두 맞고, 'Long이 어렵다'는 주장은 지지됩니다. 반면 Table 1의 저자 한 곳이 틀렸고, Motus와 LingBot-VA는 표마다 다른 칸에 있습니다. UniPi의 두 수치는 출처가 의심됩니다. 서베이가 인용한 방법의 재현은 이 맥에서 불가능합니다."
+description: "로봇 학습의 세계 모델 서베이(arXiv:2605.00080)를 분류 포괄성, 표 재계산, 주장 대조로 읽었습니다. 표 5의 평균은 모두 맞고, 'Long이 어렵다'는 주장은 지지됩니다. 반면 Table 1의 저자 표기 한 곳이 본문·arXiv 메타데이터와 다르고, Motus와 LingBot-VA는 표마다 다른 칸에 있습니다. UniPi의 두 수치는 UniPi 초록에서 출처를 확인할 수 없습니다. 서베이가 인용한 방법의 재현은 이 맥에서 불가능합니다."
 tags: ["robotics", "world-model", "vla", "survey", "paper-review"]
 paper: "https://arxiv.org/abs/2605.00080"
 code: "https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy"
@@ -50,8 +50,8 @@ Cosmos Policy, LingBot-VA, Motus, VLA-JEPA, JEPA-VLA는 LIBERO 평균이 96–98
 
 ## 본문과 표가 맞지 않는 곳
 
-- **Table 1의 저자 오류:** GE-Act의 저자가 Bharadhwaj 외로 적혀 있습니다. 같은 서베이 본문은 Liao 외로 적고, arXiv 메타데이터도 Liao 외입니다(Genie Envisioner).
-- **WorldVLA 참고문헌 누락 의심:** WorldVLA 인용이 RynnVLA-002 항목 하나를 가리킵니다.
+- **Table 1의 저자 표기 차이:** GE-Act의 저자가 Bharadhwaj 외로 적혀 있습니다. 같은 서베이 본문은 Liao 외로 적고, arXiv 메타데이터도 Liao 외입니다(Genie Envisioner).
+- **WorldVLA 참고문헌 확인 필요:** WorldVLA 인용이 RynnVLA-002 항목 하나를 가리킵니다.
 - **분류 불일치:** Motus와 LingBot-VA는 본문과 표 1에서는 MoT이고, 표 5와 6에서는 단일 백본입니다.
 - **UniPi 수치 출처:** 표 5의 LIBERO-Long 0.0과 표 6의 CALVIN 0.92는 UniPi 초록에 없습니다. LIBERO는 UniPi 이후에 공개되었습니다. 원논문 확인이 필요합니다.
 

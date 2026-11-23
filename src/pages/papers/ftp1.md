@@ -2,7 +2,7 @@
 layout: "./_layout.astro"
 title: "센서가 바뀌어도 촉각 정책이 옮겨 갈까: FTP-1 읽기"
 date: "2026-11-21"
-description: "CoRL 2026 포스터 FTP-1을 표 재계산과 공식 코드 정적 대조로 읽었습니다. seen 센서의 향상은 방향과 유의성이 맞지만 보고값의 기준이 틀렸습니다. 학습 없던 센서의 +31.6%p는 소표본입니다. 사전학습 효과는 시뮬 전체 평균에서만 뚜렷합니다."
+description: "CoRL 2026 포스터 FTP-1을 표 재계산과 공식 코드 정적 대조로 읽었습니다. seen 센서의 향상은 방향과 유의성이 맞지만, 보고값의 기준선 평균은 표의 과제별 값으로 다시 계산한 평균과 다릅니다. 학습 없던 센서의 +31.6%p는 소표본입니다. 사전학습 효과는 시뮬 전체 평균에서만 뚜렷합니다."
 tags: ["robotics", "tactile", "vla", "foundation-model", "manipulation", "paper-review"]
 paper: "https://arxiv.org/abs/2606.13102"
 code: "https://github.com/michaelyuancb/ftp1-policy"
